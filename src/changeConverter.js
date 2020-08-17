@@ -16,6 +16,7 @@ class ChangeConverter {
         moneyBreakdown.push("£5")
         total -= 5
       }
+
       else if (total >= 1 && total < 5) {
         moneyBreakdown.push("£1")
         total -= 1
@@ -46,7 +47,6 @@ class ChangeConverter {
         total -= 0.01
       }
     }
-      console.log(moneyBreakdown)
       return moneyBreakdown
   }
 }

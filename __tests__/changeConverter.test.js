@@ -58,4 +58,12 @@ describe("ChangeConverter", () => {
     expect(convertChange.convertChange(0.09)).toEqual(["5p","1p","1p","1p","1p"])
   }) 
 
+  test("It should return money array ", () => {
+    expect(convertChange.convertChange(0.19)).toEqual(["10p","5p","1p","1p","1p","1p"])
+  }) 
+
+  test("It should return money array ", () => {
+    expect(convertChange.convertChange(10.19)).toEqual(["£10","10p","5p","1p","1p","1p","1p"])
+  }) 
+
 })

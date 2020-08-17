@@ -1,0 +1,22 @@
+{
+  "name": "change-converter-review",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofyloafy/change-converter-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofyloafy/change-converter-review/issues"
+  },
+  "homepage": "https://github.com/sofyloafy/change-converter-review#readme"
+}

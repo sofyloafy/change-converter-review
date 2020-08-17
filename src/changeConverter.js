@@ -16,11 +16,11 @@ class ChangeConverter {
         moneyBreakdown.push("£5")
         total -= 5
       }
+      else if (total >= 1 && total < 5) {
+        moneyBreakdown.push("£1")
+        total -= 1
+      }
     }
-    //   else if (total >= 10) {
-    //     moneyBreakdown.push("£10")
-    //     total -= 10
-    //   }
       console.log(moneyBreakdown)
       return moneyBreakdown
   }

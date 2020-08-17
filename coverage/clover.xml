@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1597693540877" clover="3.2.0">
-  <project timestamp="1597693540877" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="14" coveredconditionals="13" methods="1" coveredmethods="1" elements="33" coveredelements="32" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+<coverage generated="1597693717372" clover="3.2.0">
+  <project timestamp="1597693717372" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="18" coveredconditionals="17" methods="1" coveredmethods="1" elements="40" coveredelements="39" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
     <file name="changeConverter.js" path="/Users/sophiebrown/Projects/change-converter-review/src/changeConverter.js">
-      <metrics statements="18" coveredstatements="18" conditionals="14" coveredconditionals="13" methods="1" coveredmethods="1"/>
-      <line num="4" count="5" type="stmt"/>
-      <line num="5" count="5" type="stmt"/>
-      <line num="6" count="5" type="stmt"/>
-      <line num="7" count="12" type="cond" truecount="2" falsecount="0"/>
+      <metrics statements="21" coveredstatements="21" conditionals="18" coveredconditionals="17" methods="1" coveredmethods="1"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="6" count="8" type="stmt"/>
+      <line num="7" count="19" type="cond" truecount="2" falsecount="0"/>
       <line num="8" count="5" type="stmt"/>
       <line num="9" count="5" type="stmt"/>
-      <line num="11" count="7" type="cond" truecount="4" falsecount="0"/>
-      <line num="12" count="2" type="stmt"/>
-      <line num="13" count="2" type="stmt"/>
-      <line num="15" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="14" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="15" count="11" type="cond" truecount="4" falsecount="0"/>
       <line num="16" count="2" type="stmt"/>
       <line num="17" count="2" type="stmt"/>
-      <line num="19" count="3" type="cond" truecount="3" falsecount="1"/>
-      <line num="20" count="3" type="stmt"/>
-      <line num="21" count="3" type="stmt"/>
-      <line num="24" count="5" type="stmt"/>
-      <line num="25" count="5" type="stmt"/>
-      <line num="29" count="1" type="stmt"/>
+      <line num="19" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="21" count="7" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="8" type="stmt"/>
+      <line num="30" count="8" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

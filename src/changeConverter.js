@@ -25,6 +25,26 @@ class ChangeConverter {
         moneyBreakdown.push("50p")
         total -= 0.5
       }
+
+      else if (total >= 0.2 && total < 0.5) {
+        moneyBreakdown.push("20p")
+        total -= 0.2
+      }
+
+      else if (total >= 0.1 && total < 0.2) {
+        moneyBreakdown.push("10p")
+        total -= 0.1
+      }
+
+      else if (total >= 0.05 && total < 0.1) {
+        moneyBreakdown.push("5p")
+        total -= 0.05
+      }
+
+      else {
+        moneyBreakdown.push("1p")
+        total -= 0.01
+      }
     }
       console.log(moneyBreakdown)
       return moneyBreakdown

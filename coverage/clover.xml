@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1597694270904" clover="3.2.0">
-  <project timestamp="1597694270905" name="All files">
-    <metrics statements="32" coveredstatements="32" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1" elements="63" coveredelements="63" complexity="0" loc="32" ncloc="32" packages="1" files="1" classes="1"/>
+<coverage generated="1598342335726" clover="3.2.0">
+  <project timestamp="1598342335726" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1" elements="62" coveredelements="62" complexity="0" loc="31" ncloc="31" packages="1" files="1" classes="1"/>
     <file name="changeConverter.js" path="/Users/sophiebrown/Projects/change-converter-review/src/changeConverter.js">
-      <metrics statements="32" coveredstatements="32" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1"/>
-      <line num="4" count="16" type="stmt"/>
-      <line num="5" count="16" type="stmt"/>
-      <line num="6" count="16" type="stmt"/>
-      <line num="7" count="46" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="5" type="stmt"/>
-      <line num="9" count="5" type="stmt"/>
-      <line num="11" count="41" type="cond" truecount="4" falsecount="0"/>
-      <line num="12" count="4" type="stmt"/>
-      <line num="13" count="4" type="stmt"/>
+      <metrics statements="31" coveredstatements="31" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1"/>
+      <line num="4" count="17" type="stmt"/>
+      <line num="5" count="17" type="stmt"/>
+      <line num="6" count="17" type="stmt"/>
+      <line num="7" count="50" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="11" count="42" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
       <line num="15" count="37" type="cond" truecount="4" falsecount="0"/>
       <line num="16" count="2" type="stmt"/>
       <line num="17" count="2" type="stmt"/>
@@ -33,9 +33,8 @@
       <line num="42" count="4" type="stmt"/>
       <line num="46" count="16" type="stmt"/>
       <line num="47" count="16" type="stmt"/>
-      <line num="50" count="16" type="stmt"/>
-      <line num="51" count="16" type="stmt"/>
-      <line num="55" count="1" type="stmt"/>
+      <line num="50" count="17" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
